@@ -1,0 +1,2 @@
+# rm1-network
+Small, completely functional network with adjusted hosts, routers, manual IP adresses and DHCP, DNS and HTTP servers. Both OSPF and RIP protocols were used. Tested with HTTP requests and responses, cable connection on router as well as TELNET remote access. Should be extended with NAT, dynamical NAT, extended access-list controls and DNS rerouting. Should test with ARP messages and ICMP pings (for checking access-lists)
